@@ -1,0 +1,5 @@
+openai  # if using API, or remove if using local model
+google-generativeai  # for Gemini if preferred
+rich
+typer
+python-dotenv
